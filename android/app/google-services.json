@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533480309202",
+    "project_id": "mad4360-ica16-cloudquiz",
+    "storage_bucket": "mad4360-ica16-cloudquiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533480309202:android:aa403c2d1dec2ec2b6080b",
+        "android_client_info": {
+          "package_name": "com.example.activity15_api_cloud_trivia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXeYzywmCwKVXYUlpmdnBTQSwOSUYpzzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
